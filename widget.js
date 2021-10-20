@@ -2055,7 +2055,7 @@ leadinkawgtnew.init(
             script: '/leadinkawgt.js',
             counter: function (ChatOrCallback) {
             },
-            token: 'q9YYF9bK_njGmGm2U_x6TNCCDvsfqkRk',
+            token: '',
             photo: 'data:image/png;base64,iVBORw0KGgoAAAANSUhg=='
         }
     });
